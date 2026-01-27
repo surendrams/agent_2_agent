@@ -1,0 +1,12 @@
+[project]
+name = "Agent2Agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-adk>=1.21.0",
+    "a2a-sdk>=0.3.0",
+    "python-dotenv>=1.0.0",
+    "uvicorn>=0.30.0",
+]
